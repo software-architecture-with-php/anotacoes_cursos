@@ -12,4 +12,18 @@
 ---
 
 ### Conteúdo do Curso 1
-- [Tipos de Arquitetura e Evolução](./1.tipos_de_arquitetura.md)
+- [Tipos de Arquitetura e Evolução](notas_curso1/1.tipos_de_arquitetura.md)
+- [Three-Tier Architecture](notas_curso1/2.three-tier_architecture.md)
+- [Stateless, Stateful e Imutabilidade](notas_curso1/3.stateless_stateful_e_imutabilidade.md)
+- [Monolito vs Monolito Modular](notas_curso1/4.monolito_vs_monolito_modular.md)
+- [Monolito vs Microserviços](notas_curso1/5.monolito_vs_microservicos.md)
+- [Arquitetura com Containers](notas_curso1/6.arquitetura_com_containers.md)
+
+---
+
+### Conteúdo do Curso 2
+
+---
+
+### Arquitetura de Software e os Testes de Software
+##### Como a arquitetura de software pode ajudar a criar testes de software mais eficazes e eficientes
