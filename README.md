@@ -25,5 +25,5 @@
 
 ---
 
-### Arquitetura de Software e os Testes de Software
+### Arquitetura de Software e Testes de Software
 ##### Como a arquitetura de software pode ajudar a criar testes de software mais eficazes e eficientes
