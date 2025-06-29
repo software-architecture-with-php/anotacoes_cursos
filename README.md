@@ -6,7 +6,7 @@
 [_Curso 1: Arquitetura de Software e Design de Sistemas Modernos de Grande Escala_](https://www.udemy.com/share/10bCZ33@TmUjNMror7vOHP0AJ_l5JL_4chPi1QxVKNziUCXt55m_U_0m9B_ElIINvLE487hy6Q==/)
 
 
-### Conteúdo do Curso 1
+### Conteúdo do Curso 1 localizado na pasta `/notas_curso1` desse repositório
 - [Tipos de Arquitetura e Evolução](notas_curso1/1.tipos_de_arquitetura.md)
     - [Repositório com analise simples da arquitetura monolítica](https://github.com/software-architecture-with-php/monolito)
     - [Repositório com analise simples da arquitetura mvc](https://github.com/software-architecture-with-php/mvc)
