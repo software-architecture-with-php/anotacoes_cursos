@@ -8,6 +8,12 @@
 
 ### Conteúdo do Curso 1
 - [Tipos de Arquitetura e Evolução](notas_curso1/1.tipos_de_arquitetura.md)
+    - [Repositório com analise simples da arquitetura monolítica](https://github.com/software-architecture-with-php/monolito)
+    - [Repositório com analise simples da arquitetura mvc](https://github.com/software-architecture-with-php/mvc)
+    - [Repositório com analise simples da arquitetura modularização](https://github.com/software-architecture-with-php/modularizacao)
+    - [Repositório com analise simples da arquitetura microserviços](https://github.com/software-architecture-with-php/microservicos)
+    - [Repositório com analise simples da arquitetura layered](https://github.com/software-architecture-with-php/layered-architecture)
+    
 - [Three-Tier Architecture](notas_curso1/2.three-tier_architecture.md)
 - [Stateless, Stateful e Imutabilidade](notas_curso1/3.stateless_stateful_e_imutabilidade.md)
 - [Monolito vs Monolito Modular](notas_curso1/4.monolito_vs_monolito_modular.md)
